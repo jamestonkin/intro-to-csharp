@@ -1,0 +1,8 @@
+/Users/jamestonkin/NSS/csharp/myapp/bin/Debug/netcoreapp1.1/myapp.deps.json
+/Users/jamestonkin/NSS/csharp/myapp/bin/Debug/netcoreapp1.1/myapp.runtimeconfig.json
+/Users/jamestonkin/NSS/csharp/myapp/bin/Debug/netcoreapp1.1/myapp.runtimeconfig.dev.json
+/Users/jamestonkin/NSS/csharp/myapp/bin/Debug/netcoreapp1.1/myapp.dll
+/Users/jamestonkin/NSS/csharp/myapp/bin/Debug/netcoreapp1.1/myapp.pdb
+/Users/jamestonkin/NSS/csharp/myapp/obj/Debug/netcoreapp1.1/myapp.AssemblyInfo.cs
+/Users/jamestonkin/NSS/csharp/myapp/obj/Debug/netcoreapp1.1/myapp.dll
+/Users/jamestonkin/NSS/csharp/myapp/obj/Debug/netcoreapp1.1/myapp.pdb
